@@ -1,0 +1,9 @@
+# ninja log v5
+10	1502	1711931435729626466	CMakeFiles/Tutorial.dir/tutorial.cpp.o	19e54bf0c92d0751
+12	250	1711931379688241959	MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o	d49e82aae6faa36a
+250	327	1711931379770112000	MathFunctions/libMathFunctions.a	6f1742cad7359344
+1502	1583	1711931435828253685	Tutorial	da186b2d4143ce1
+15	247	1711931870865978286	MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.o	d49e82aae6faa36a
+248	306	1711931870930390000	MathFunctions/libMathFunctions.a	6f1742cad7359344
+15	1048	1711931871664159569	CMakeFiles/Tutorial.dir/tutorial.cpp.o	19e54bf0c92d0751
+1048	1124	1711931871744928886	Tutorial	da186b2d4143ce1

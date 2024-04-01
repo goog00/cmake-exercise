@@ -1,0 +1,6 @@
+/Users/steng/compiler/cmake-exercise/step3/build/CMakeFiles/Tutorial.dir
+/Users/steng/compiler/cmake-exercise/step3/build/CMakeFiles/edit_cache.dir
+/Users/steng/compiler/cmake-exercise/step3/build/CMakeFiles/rebuild_cache.dir
+/Users/steng/compiler/cmake-exercise/step3/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/steng/compiler/cmake-exercise/step3/build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/steng/compiler/cmake-exercise/step3/build/MathFunctions/CMakeFiles/rebuild_cache.dir
